@@ -1,2 +1,2 @@
 # HPC
-High Performance Engineering Projects
+High Performance Computing Projects
